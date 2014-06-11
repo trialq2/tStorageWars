@@ -1,0 +1,19 @@
+{
+    "context": "server",
+    "identifier": "com.pa.trialq.tStorageWars",
+    "display_name": "Storage Wars",
+    "description": "Server mod to start with 50,000 metal, but you cannot build metal extractors.",
+    "author": "trialq",
+    "version": "0.1",
+    "build": "67099-main",
+    "date": "2014/06/11",
+    "forum": "https://forums.uberent.com/threads/60762/",
+    "signature": "not yet implemented",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "id": "tStorageWars",
+    "priority": 100,
+    "enabled": true
+}
